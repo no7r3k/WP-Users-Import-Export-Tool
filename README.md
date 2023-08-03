@@ -32,5 +32,5 @@ A straightforward PHP script for conveniently exporting and importing users betw
 
 ## License
 
-This project is licensed under the [GPL 3.0](LICENSE). 
+This project is licensed under the [GNU 3.0](LICENSE). 
 Use it as you see fit. 
